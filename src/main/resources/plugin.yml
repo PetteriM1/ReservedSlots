@@ -1,0 +1,9 @@
+name: ReservedSlots
+version: "${pom.version}"
+api: ["1.0.0"]
+author: PetteriM1
+main: me.petterim1.reservedslots.Plugin
+permissions:
+  reservedslots.slot:
+    default: op
+    description: "Player has a reserved slot"

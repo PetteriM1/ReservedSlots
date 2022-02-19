@@ -1,0 +1,5 @@
+# how many of the slots are reserved for players with reservedslots.slot permission
+# cannot be higher than the server's maximum player count setting
+reservedSlots: 20
+# no free slots left kick message
+kickMessageNoSlot: "All free slots are full! You can buy the VIP rank to access extra slots or wait for some players to leave"
